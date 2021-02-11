@@ -44,7 +44,7 @@ Simple program to increase YouTube views written in Python.
   ```bash
   $ git clone https://github.com/dahabko/dahabko.git
 
-  $ cd YouTube-Viewer
+  $ cd dahabko
 
   $ pip install -r requirements.txt
   ```
@@ -83,7 +83,7 @@ Simple program to increase YouTube views written in Python.
   ```bash
   $ git clone https://github.com/dahabko/dahabko.git
 
-  $ cd YouTube-Viewer
+  $ cd dahabko
 
   $ pip3 install -r requirements.txt
   ```
