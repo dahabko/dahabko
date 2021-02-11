@@ -42,7 +42,7 @@ Simple program to increase YouTube views written in Python.
  
   Open command prompt and type
   ```bash
-  $ git clone https://github.com/MShawon/YouTube-Viewer.git
+  $ git clone https://github.com/dahabko/dahabko.git
 
   $ cd YouTube-Viewer
 
@@ -81,7 +81,7 @@ Simple program to increase YouTube views written in Python.
  
   Open your favourite terminal and run
   ```bash
-  $ git clone https://github.com/MShawon/YouTube-Viewer.git
+  $ git clone https://github.com/dahabko/dahabko.git
 
   $ cd YouTube-Viewer
 
